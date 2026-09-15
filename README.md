@@ -14,11 +14,13 @@ Positions are numbered from 1 to 15, starting at the apex and moving left-to-rig
 
 The target rack is:
 
+```text
         R 
       Y   R
     R   B   Y
   Y   R   Y   R
 R   Y   Y   R   Y
+```
 
 How It Works
 
